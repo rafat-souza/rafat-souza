@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey
+  I'm a cypherpunk and bitcoin enthusiast
 <div>
-  <img height="180em" src="https://e0.pxfuel.com/wallpapers/542/184/desktop-wallpaper-libertarianism-anarchism-gadsden-flag-ancap-anarchy-and-mobile-background.jpg"/>
+  <img height="180em" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Anarcho-Gadsden_flag.svg"/>
 </div>
