@@ -1,5 +1,5 @@
 ## Hey
-  I'm a cypherpunk and bitcoin enthusiast
+  I'm a cypherpunk and crypto enthusiast
 <div>
   <img height="170em" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Anarcho-Gadsden_flag.svg"/>
 </div>
