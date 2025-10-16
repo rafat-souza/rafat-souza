@@ -1,7 +1,7 @@
 ## Hey
   I'm a cypherpunk and bitcoin enthusiast
 <div>
-  <img height="180em" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Anarcho-Gadsden_flag.svg"/>
+  <img height="150em" src="https://upload.wikimedia.org/wikipedia/commons/2/27/Anarcho-Gadsden_flag.svg"/>
 </div>
 
 <div style="display: inline_block"><br>
