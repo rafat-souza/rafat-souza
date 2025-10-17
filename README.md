@@ -1,5 +1,5 @@
 ## Olá
-  Estudante de Sistemas de Informação, analista de dados, estudando desenvolvimento móvel com react native. Link para portfólio de dados abaixo.
+  Estudante de Sistemas de Informação, analista de dados, estudando desenvolvimento móvel com react native. Portfolio de dados linkado no perfil.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
