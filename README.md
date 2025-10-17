@@ -1,5 +1,5 @@
-## Olá
-  Estudante de Sistemas de Informação, analista de dados, estudando desenvolvimento móvel com react native. Portfolio de dados linkado no perfil.
+## Hey
+  Information Systems student, data analyst, studying mobile development with React Native. Data portfolio linked in profile.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
