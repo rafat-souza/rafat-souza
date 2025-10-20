@@ -1,5 +1,5 @@
 ## Hey
-  Information Systems student, data analyst, studying mobile development with React Native. Data portfolio linked in profile.
+  Information Systems student, data analyst, studying mobile development with React Native. Data portfolio linked in the profile.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Rafat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
