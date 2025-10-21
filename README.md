@@ -1,4 +1,4 @@
-## Hey
+## Hey, I am Rafael
   Information Systems student, data analyst, studying mobile development with React Native. Data portfolio linked in the profile.
 
 ## Connect with me
