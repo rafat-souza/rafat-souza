@@ -1,5 +1,5 @@
 ## Hey, I am Rafael
-  Information Systems student, data analyst, studying mobile development with React Native. Data portfolio linked in the profile.
+  Information Systems student, data analyst, studying mobile development with React Native. Power BI portfolio linked in the profile.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeltoledosouza/)
