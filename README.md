@@ -1,5 +1,5 @@
 ## Hey, I am Rafael
-  Information Systems student, data analyst, studying mobile development with React Native.
+  Information Systems student, data and BI analyst, currently studying mobile development with React Native.
   
   Power BI portfolio:
   
