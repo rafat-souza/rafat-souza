@@ -1,5 +1,5 @@
 ## Hey, I am Rafael
-  Information Systems student, data and BI analyst.
+  Information Systems student, data and BI analyst. Also studying front-end and nostr right now.
   
   Power BI portfolio:
   
