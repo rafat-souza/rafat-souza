@@ -1,5 +1,5 @@
 ## Olá, meu nome é Rafael
-  Estudante de Sistemas de Informação, analista de dados e desenvolvedor front-end. Estudando protocolo Nostr.
+  Estudante de Sistemas de Informação. Estudando protocolo Nostr.
   
   Portfólio de Power BI:
   
