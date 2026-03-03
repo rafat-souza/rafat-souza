@@ -2,11 +2,11 @@
   Estudante de Sistemas de Informação. Estudando protocolo Nostr.
   
   Portfólio de Power BI:
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiNDJlNDM2NTUtZTVmMi00YTNlLThjN2UtNjhjYTJmNDZlYzBhIiwidCI6IjkwNDQzYTE5LTJkNmItNDlmYS1hYWEyLTY0Y2NkMGU3NmQ4MiJ9)
 
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeltoledosouza/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiNDJlNDM2NTUtZTVmMi00YTNlLThjN2UtNjhjYTJmNDZlYzBhIiwidCI6IjkwNDQzYTE5LTJkNmItNDlmYS1hYWEyLTY0Y2NkMGU3NmQ4MiJ9)
 
 ## Habilidades
 <span><br>
